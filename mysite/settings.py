@@ -25,7 +25,7 @@ SECRET_KEY = 'g=o3o2!6ur5(e%2r0f4!x$&()$mpbj8^_i-cy!wpylf+ow%&tj'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['128.199.249.122','127.0.0.1']
 FACEBOOK_APP_ID = str('308474289596501')
 FACEBOOK_APP_SECRET = str('9ec98b4cfdf8135a54229cd2ceae27e3')
 
